@@ -1,0 +1,5 @@
+node js 설치한 이유
+: create-react-app 라이브러리 때문
+: node js 설치하면 npm이라는 툴 사용 가능
+
+https://create-react-app.dev/docs/getting-started
