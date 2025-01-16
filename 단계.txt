@@ -69,4 +69,4 @@ Component 만드는 기준
 - 다른 페이지 만들때도 컴포넌트로 만듦
 
 Component 많이 만들면 단점
-- state 쓸 때 복잡해짐
+- state 쓸 때 복잡해짐 --> 상위 component에서 만든 state 쓰려면 props 문법 이용해야함
